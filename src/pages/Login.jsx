@@ -10,7 +10,7 @@ const Login = ({ setToken, setRole }) => {
     const userRef = useRef()
     const passRef = useRef()
     return (
-        <div className='login-bg'>
+        <div className='login-bg'><img src="/images/bg.gif" alt="bg" />
             <div className="Login-container">
                 <Form.Label htmlFor="username" className=' text-light'>Username</Form.Label>
                 <Form.Control
