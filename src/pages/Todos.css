@@ -1,0 +1,9 @@
+.todos-container {
+    background-color: rgba(77, 100, 105, 0.6);
+    border-radius: "20px";
+    padding: "20px 40px";
+    color: "white";
+    max-width: "1000px";
+    text-align: "center";
+    backdrop-filter:  "blur(5px)";
+}

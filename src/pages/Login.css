@@ -1,0 +1,19 @@
+.login-bg {
+  background-image: url(./image/bg.gif);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  height: 100vh; 
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
+.Login-container {
+  width: 450px;
+  padding: 1.5rem;
+  border-radius: 20px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+  display: block;
+  margin-left: 0;
+}
