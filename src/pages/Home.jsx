@@ -1,7 +1,7 @@
 const Home = () => {
   return (
     <>
-      <div className="text-center d-flex flex-column align-items-center justify-content-center"style={{marginTop: "5px",height: "480px", backgroundImage: "url('./image/tower.gif')", backgroundSize: "cover",backgroundPosition: "center", }}>
+      <div className="text-center d-flex flex-column align-items-center justify-content-center"style={{marginTop: "5px",height: "480px", backgroundImage: "url('./public/images/tower.gif')", backgroundSize: "cover",backgroundPosition: "center", }}>
         <div style={{backgroundColor: "rgba(0, 0, 0, 0.6)", borderRadius: "15px",padding: "20px 40px",color: "white", maxWidth: "600px",textAlign: "center",backdropFilter: "blur(5px)",}}>
           <img width={200}height={200}src="./public/images/wolfalone.png"alt="Student"className="rounded-circle mb-3 shadow"style={{ objectFit: "cover" }}/>
           <h5 className="text-light mt-2">นายรัฐภูมิ ลื้มเลิศ</h5>
